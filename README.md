@@ -1,6 +1,6 @@
 # CSES Solutions
 
-Over 0 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Mohammad Al-Najjar. You can view my official CSES profile [here](https://cses.fi/user/Al_Najjar). As of 2026-07-18, the following number of solutions have been completed:
+Over 0 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Mohammad Al-Najjar. You can view my official CSES profile [here](https://cses.fi/user/445780). As of 2026-07-18, the following number of solutions have been completed:
 
 | Problem Type | Number Solved |
 | :--- | :---: |
