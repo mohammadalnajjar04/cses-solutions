@@ -1,10 +1,10 @@
 # CSES Solutions
 
-Over 4 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Mohammad Al-Najjar. You can view my official CSES profile [here](https://cses.fi/user/445780). As of 2026-07-18, the following number of solutions have been completed:
+Over 5 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Mohammad Al-Najjar. You can view my official CSES profile [here](https://cses.fi/user/445780). As of 2026-07-18, the following number of solutions have been completed:
 
 | Problem Type | Number Solved |
 | :--- | :---: |
-| Introductory Problems | 4/24 |
+| Introductory Problems | 5/24 |
 | Sorting and Searching | 0/35 |
 | Dynamic Programming | 0/23 |
 | Graph Algorithms | 0/36 |
@@ -22,4 +22,4 @@ Over 4 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/)
 | Counting Problems | 0/18 |
 | Additional Problems I | 0/30 |
 | Additional Problems II | 0/30 |
-| **Total** | **4/400** |
+| **Total** | **5/400** |
